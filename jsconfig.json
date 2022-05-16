@@ -1,0 +1,12 @@
+//This set up allows for easy importing with no deep nesting .../.././. type stuff
+
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "@styles/*": ["src/styles/*"],
+      "@utils/*": ["src/utils/*"]
+    }
+  }
+}
