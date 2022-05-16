@@ -25,7 +25,7 @@ export default function IndexPage({ pets }) {
           <div>
             <div>¯\_(ツ)_/¯</div>
             <p>
-              Your data will show up here when you've configured everything
+              Your data will show up here when youve configured everything
               correctly
             </p>
           </div>
